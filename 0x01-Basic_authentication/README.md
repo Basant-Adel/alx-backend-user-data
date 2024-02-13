@@ -1,8 +1,6 @@
 # 0x01. Basic authentication
 
 **`Back-end`** **`Authentification`**
-<br><br>
-<img src="">
 
 ## Background Context
 In this project, you will learn what the authentication process means and implement a **Basic Authentication** on a simple API.
